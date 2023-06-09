@@ -1,7 +1,7 @@
 {
   "name": "openchat",
   "version": "1.0.0",
-  "description": "The place to share and discuss ideas.",
+  "description": "The right place to share and discuss ideas.",
   "main": "index.js",
   "scripts": {
     "dev": "next dev"

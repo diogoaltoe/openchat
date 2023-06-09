@@ -1,2 +1,4 @@
-# openchat
-The place to share and discuss ideas.
+# OpenChat
+The right place to share and discuss ideas.
+
+Access now: http://openchat.app.br/
