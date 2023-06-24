@@ -4,7 +4,9 @@
   "description": "The right place to share and discuss ideas.",
   "main": "index.js",
   "scripts": {
-    "dev": "next dev"
+    "dev": "next dev",
+    "check": "prettier --check .",
+    "fix": "prettier --write ."
   },
   "author": "Diogo Altoé Lopes",
   "license": "MIT",
@@ -12,5 +14,8 @@
     "next": "^13.1.6",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.8"
   }
 }
